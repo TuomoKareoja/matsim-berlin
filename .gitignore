@@ -27,3 +27,6 @@ output*
 /.DS_Store
 
 /RunGTFS2MATSimOpenBerlin/
+
+# VSCode
+.vscode/
